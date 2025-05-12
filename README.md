@@ -29,7 +29,7 @@ Projeto de fins educacionais (Feito em base minha base de estudos)
 1. **Clonar repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/restify.git
+   git clone https://github.com/guinunesdev/restify.git
    cd restify
    ```
 
