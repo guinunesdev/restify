@@ -16,6 +16,5 @@ public class User {
     @Column(nullable = false)
     private String password;
 
-    // para simplificar, guarda roles como CSV: "ROLE_USER,ROLE_ADMIN"
     private String roles;
 }
